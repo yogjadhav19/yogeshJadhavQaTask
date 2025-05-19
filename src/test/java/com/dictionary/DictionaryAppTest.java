@@ -4,7 +4,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class DictionaryAppTest {
-
     @Test
     public void testPalindrome() {
         Assert.assertTrue(StringUtil.isPalindrome("madam"));
