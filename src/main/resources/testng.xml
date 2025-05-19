@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DictionaryAppSuite">
+  <test name="DictionaryTests">
+    <classes>
+      <class name="com.dictionary.DictionaryAppTest"/>
+    </classes>
+  </test>
+</suite>
